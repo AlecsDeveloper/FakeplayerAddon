@@ -70,8 +70,8 @@ Permite rotar el cuerpo del jugador conforme a los grados ingresados en el param
 `./player server ?` <br>
 Muestra la información sobre los metodos del servidor.
 
-`./player <username> reload` <br>
+`./player server reload` <br>
 Recarga todo el servidor de fakeplayer.
 
-`./player <username> cls/clear` <br>
+`./player server cls/clear` <br>
 Limpia el chat del usuario.
