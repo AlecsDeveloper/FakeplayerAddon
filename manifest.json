@@ -1,0 +1,36 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§3Fakeplayers Addon",
+		"description": "§2Developed by Alecs",
+		"uuid": "665ba90f-d392-4a64-9ffd-078bbf093e98",
+		"min_engine_version": [1, 19, 50],
+		"version": [1, 0, 0]
+	},
+	"modules": [
+		{
+			"description": "Behavior Pack Module",
+			"type": "data",
+			"uuid": "b64b1f4d-4ef8-4567-9983-983c736e8ec4",
+			"version": [1, 0, 0]
+		},
+		{
+			"description": "Gametest Module",
+			"type": "script",
+			"language": "javascript",
+			"entry": "scripts/main.js",
+			"uuid": "49909301-b772-4234-be84-186f24d24364",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.1.0-beta"
+		},
+		{
+             "module_name": "@minecraft/server-gametest",
+             "version": "1.0.0-beta"
+        }
+    ]
+}
