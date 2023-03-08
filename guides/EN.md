@@ -70,8 +70,8 @@ It allows to rotate the body of the player according to the degrees entered in t
 `./player server ?` <br>
 Displays information about server methods.
 
-`./player <username> reload` <br>
+`./player server reload` <br>
 Reload the entire fakeplayer server.
 
-`./player <username> cls/clear` <br>
+`./player server cls/clear` <br>
 Clean up the user's chat.
