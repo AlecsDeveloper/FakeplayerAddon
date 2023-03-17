@@ -1,4 +1,4 @@
-import { BlockLocation } from '@minecraft/server'
+import { Vector } from '@minecraft/server'
 import { ephemeral } from './data.js'
 
 export const Client = {
@@ -10,7 +10,7 @@ export const Client = {
         // Fakeplayer connection check
         if (exist >= 0) return ephemeral(7,`${username} are connected`,sender)
         // Fakeplayer connection
-        const FAKEPLAYER = event.spawnSimulatedPlayer(new BlockLocation(0,4,0), username)
+        const FAKEPLAYER = event.spawnSimulatedPlayer(new Vector(0,4,0), username)
         FAKEPLAYER.setGameMode(gamemode == 'creative' || gamemode == 'creative' ? gamemode : 'survival');
         FAKEPLAYER.teleport(sender.location, sender.dimension, sender.location.x, sender.location.y);
         FAKEPLAYER.runCommandAsync('spawnpoint @s')
