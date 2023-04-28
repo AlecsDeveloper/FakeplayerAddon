@@ -13,7 +13,7 @@
 - ### [1.19.80+](https://www.mediafire.com/file/7ppkbmo1kijz3ys/Fakeplayer+1.19.70.mcpack/file)
 
 
-- ### [1.19.70+](https://www.mediafire.com/file/7ppkbmo1kijz3ys/Fakeplayer+1.19.70.mcpack/file)
+- ### [1.19.70 - 1.19.73](https://www.mediafire.com/file/7ppkbmo1kijz3ys/Fakeplayer+1.19.70.mcpack/file)
 
 - ### [1.19.50 - 1.19.63](https://www.mediafire.com/download/n6yr81m6z0r4392)
 
