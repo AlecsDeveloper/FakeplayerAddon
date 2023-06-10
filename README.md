@@ -11,7 +11,7 @@
 ---
 # Downloads
 
-- ### [1.19.80+](https://www.mediafire.com/file/qsf0xswv7duzgi3/Fakeplayer_1.19.80.mcpack/file)
+- ### [1.19.80 - 1.19.83](https://www.mediafire.com/file/qsf0xswv7duzgi3/Fakeplayer_1.19.80.mcpack/file)
 
 
 - ### [1.19.70 - 1.19.73](https://www.mediafire.com/file/7ppkbmo1kijz3ys/Fakeplayer+1.19.70.mcpack/file)
