@@ -1,10 +1,11 @@
 # Fakeplayer Addon
 ---
-> [!NOTE] Guides
-> [Español](/guides/ES.md)/[English](/guides/EN.md)/[Video](https://youtu.be/FMnSQ2R94PI)
+> [!NOTE]
+> Guides: [Español](/guides/ES.md)/[English](/guides/EN.md)/[Video](https://youtu.be/FMnSQ2R94PI)
 
-# Experimental Modes
-- ## API Beta
+> [IMPORTANT]
+> Experimental Modes: 
+- API BETA
 
 ---
 # Downloads
