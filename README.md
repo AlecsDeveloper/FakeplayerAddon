@@ -30,3 +30,11 @@
 # Developed by Alecs.
 ## [Discord Server](https://discord.gg/96Uyt3KWT5) - [YT Channel](https://www.youtube.com/@yosoyalexD)
 ---
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
