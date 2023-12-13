@@ -19,6 +19,7 @@
 > - [1.19.50 - 1.19.63](https://www.mediafire.com/download/n6yr81m6z0r4392)
 
 ---
-# Developed by Alecs.
-## [Discord Server](https://discord.gg/96Uyt3KWT5) - [YT Channel](https://www.youtube.com/@yosoyalexD)
+> [!NOTE]
+> # Developed by Alecs.
+> ## [Discord Server](https://discord.gg/96Uyt3KWT5) - [YT Channel](https://www.youtube.com/@yosoyalexD)
 ---
