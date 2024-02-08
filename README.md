@@ -9,7 +9,8 @@
 
 > [!TIP]
 > # Downloads
-> - [1.20.50+](https://www.mediafire.com/file/3zh0lpzczgb62st/Fakeplayer_1.20.50.mcpack/file)
+> - [1.20.60+](https://www.mediafire.com/file/6szquispqc3hc9t/Fakeplayer_1.20.60.mcpack/file)
+> - [1.20.50 - 1.20.51](https://www.mediafire.com/file/3zh0lpzczgb62st/Fakeplayer_1.20.50.mcpack/file)
 > - [1.20.40 - 1.20.41](https://www.mediafire.com/file/p38nnpzv92xt745/Fakeplayer_1.20.40.mcpack/file)
 > - [1.20.30](https://www.mediafire.com/file/i674gb2jixfbgw6/Fakeplayer_1.20.30.mcpack/file)
 > - [1.20.10 - 1.20.15](https://www.mediafire.com/file/90orvm8v9rop1pj/Fakeplayer_1.20.10.mcpack/file)
