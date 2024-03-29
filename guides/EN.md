@@ -14,8 +14,7 @@ By being able to generate these players, they will obtain `almost` all the capab
 | Generate Mobs      |    ✅    |
 | Perform Actions    |    ✅    |
 
-## [Download](https://www.mediafire.com/file/6szquispqc3hc9t/Fakeplayer_1.20.60.mcpack/file)
-
+## [Download](https://www.mediafire.com/file/6zy2qs8tmj4djz1/Fakeplayer_1.20.70.mcpack/file)
 ---
 ## Commands guide
 
