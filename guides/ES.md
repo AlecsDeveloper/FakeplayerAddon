@@ -14,7 +14,7 @@ Al poder generar dichos jugadores, estos obtendran `casi` todas las capacidades 
 | Generar Mobs      |    ✅    |
 | Realizar Acciones |    ✅    |
 
-## [Descarga](https://www.mediafire.com/file/6zy2qs8tmj4djz1/Fakeplayer_1.20.70.mcpack/file)
+## [Descarga](https://www.mediafire.com/file/ux4aqssczlwl9cu/Fakeplayer_1.20.70.mcpack/file)
 
 ---
 ## Guía de comandos
