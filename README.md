@@ -10,7 +10,7 @@
 > [!TIP]
 > # Fakeplayer Rework
 > Use `#fakeplayer --help` to see the guide
-> - [1.20.80](https://www.curseforge.com/minecraft-bedrock/scripts/fakeplayer/download/5393806)
+> - [1.20.80 - 1.20.81](https://www.curseforge.com/minecraft-bedrock/scripts/fakeplayer/download/5393806)
 
 > [!WARNING]
 > # Fakeplayer
