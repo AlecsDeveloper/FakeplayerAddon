@@ -8,7 +8,12 @@
 ---
 
 > [!TIP]
-> # Downloads
+> # Fakeplayer Rework
+> Use `#fakeplayer --help` to see the guide
+> - [1.20.80](https://www.curseforge.com/minecraft-bedrock/scripts/fakeplayer/download/5393806)
+
+> [!WARNING]
+> # Fakeplayer
 > - [1.20.70](https://www.mediafire.com/file/ux4aqssczlwl9cu/Fakeplayer_1.20.70.mcpack/file)
 > - [1.20.60](https://www.mediafire.com/file/6szquispqc3hc9t/Fakeplayer_1.20.60.mcpack/file)
 > - [1.20.50 - 1.20.51](https://www.mediafire.com/file/3zh0lpzczgb62st/Fakeplayer_1.20.50.mcpack/file)
