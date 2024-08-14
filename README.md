@@ -11,9 +11,7 @@
 > # Fakeplayer Rework
 > Use `#fakeplayer --help` to see the guide
 > - [1.21.20+](https://www.curseforge.com/minecraft-bedrock/scripts/fakeplayer/download/5626237)
-
 > [1.21 - 1.21.2](https://www.curseforge.com/minecraft-bedrock/scripts/fakeplayer/download/5441504)
-
 > - [1.20.80 - 1.20.81](https://www.curseforge.com/minecraft-bedrock/scripts/fakeplayer/download/5393806)
 
 > [!WARNING]
