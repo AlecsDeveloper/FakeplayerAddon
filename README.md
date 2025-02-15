@@ -2,8 +2,11 @@
 > Guides: [Español](/guides/ES.md) **/** [English](/guides/EN.md) **/** [Video](https://youtu.be/FMnSQ2R94PI)
 
 > [!IMPORTANT]
-> Experimental Modes:  
+> **Experimental Modes:**
 > - API BETA
+> **Gamerules Fixer**
+> - Download and use this pack to fix the gamerules issues:
+> [Download here](https://cdn.discordapp.com/attachments/1208481601676382351/1208850823442858044/Gamerules_1.19.mcpack?ex=67b18d4f&is=67b03bcf&hm=c87fe4096271a71e7f3ee44d5c3a880cb698d9e9a602d1a9d51689bf99ca6607&)
 
 ---
 
